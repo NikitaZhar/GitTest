@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author NikitaZharinov
+ *
+ */
+module GitTest {
+}
